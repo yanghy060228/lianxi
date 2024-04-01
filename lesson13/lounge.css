@@ -8,3 +8,10 @@ h1 {
 em {
   font-family: "Cascadia Mono";
 }
+body{
+	background-color: pink;
+	color: rgb(65, 105, 225);
+	color: #4169E1CC;
+	color: rgba(39,177,182,0.8)
+	color: #2775b6CC;
+}
