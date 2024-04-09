@@ -16,7 +16,7 @@ h2 {
 	  font-size: 1.3em;
 }
 
-#footer {
+.guarantee {
     border-color: white;
 		border-width: 1px;
 		border-style: dashed;
@@ -33,7 +33,9 @@ h2 {
 		padding: 25px;
 		padding-left: 80px;
 		margin-right: 250px;
-    border-top-right-radius: 2em;
-		border-bottom-left-radius: 2em;
+    border-top-right-radius: 50%;
+		border-top-left-radius: 50%;
+		border-bottom-left-radius: 50%;
+		border-bottom-right-radius: 50%;
 }
 
