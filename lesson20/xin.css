@@ -1,0 +1,18 @@
+p {
+    color: red;
+}
+.cname {
+    color:aqua;
+}
+#iname {
+    color: blueviolet;
+}
+p.cname {
+    color: brown;
+}
+p#iname {
+    color: plum;
+}
+body h1 {
+    color: black;
+}
