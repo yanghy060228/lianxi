@@ -9,6 +9,7 @@ body {
   background-color: #675c47;
   margin:           10px;
   height:           108px;
+  /*position:         absolute;*/
 }
 
 .main {
@@ -16,6 +17,9 @@ body {
   font-size:        105%;
   padding:          15px;
   margin:           0px 300px 10px 10px;
+  position:         relative;
+  top:              0px;
+  left:             200px;
 }
 
 .sidebar {
@@ -24,7 +28,8 @@ body {
   padding:          15px;
   margin:           0px 10px 10px 10px;
   width:            250px;
-	float:            right;
+  /*position:         relative;*/
+	/*float:            right;*/
 }
 
 .footer {
@@ -34,7 +39,8 @@ body {
   padding:          15px;
   margin:           10px;
   font-size:        90%;
-  clear:            right;
+  /*position:         relative;*/
+  /*clear:            right;*/
 }
 
 h1 {
