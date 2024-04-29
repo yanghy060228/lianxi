@@ -7,7 +7,7 @@ body {
 
 .header {
     background-color: #675c47;
-    /* margin: 10px; */
+    margin: 10px 10px 0px 10px;
     height: 108px;
 }
 
@@ -36,7 +36,7 @@ body {
     color: #efe5d0;
     text-align: center;
     padding: 15px;
-    /* margin: 10px; */
+    margin: 0px 10px 10px 10px;
     font-size: 90%;
     clear: right; 
 }
@@ -68,7 +68,7 @@ a:visited {
 }
 
 .all-content {
-    width: 800px;
+    width: 1100px;
     /* height: 200px; */
     /* background-color: aqua; */
     padding-top: 5px;
@@ -79,9 +79,15 @@ a:visited {
 
 div.tableContainer {
     display: table;
-    border-spacing: 10px;  /* 为表格中地单元格设置 10px 的边框间距（相当于外边距）*/
+    border-spacing: 5px;  /* 为表格中地单元格设置 10px 的边框间距（相当于外边距）*/
 }
 
 div.talbeRow {
     display: table-row;
+}
+
+div.drinks {
+    display: table-cell;
+    background-color: #efe5d0;
+    padding: 15px;
 }
