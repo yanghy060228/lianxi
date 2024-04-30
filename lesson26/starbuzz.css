@@ -11,12 +11,12 @@ body {
     height: 108px;
     /* font: right; */
 }
-.header3 {
+/* .header3 {
     background-color: #675c47;
     margin: 10px 10px 0px 10px;
     height: 108px;
     float: right;
-}
+} */
 
 .main {
     display: table-cell;
@@ -97,4 +97,22 @@ div.drinks {
     display: table-cell;
     background-color: #efe5d0;
     padding: 15px;
+}
+
+.sprite-container {
+    width: 260px; /* 显示的宽度为足够露出 Logo 和 slogan 为准 */ 
+    height: 100%; /* 图片高度 */
+    overflow: hidden; /* 隐藏溢出部分 */ 
+}
+
+.header-logo {
+	background-image: url('images/header.gif');
+	background-position-x: 0px;
+	background-position-y: 0px; /* 没有任何偏移 */
+}
+
+.header-slogan {
+	background-image: url('images/header.gif');
+	background-position: 260px 0px; /* 向左偏移 */
+	float: right;
 }
