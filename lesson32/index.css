@@ -1,9 +1,27 @@
+body{
+  /* background-color:black  */
+}
 
+.qukuai1{
+  margin-right: -15px;
+  margin-left: -15px;
+}
 
-  /* font-size: 32px;
+.jiaoshic{
+  height: 495px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.jst{
+  background-image: url;
+  /* height:510px; */
+}
+
+.ziti h1{
+  font-size: 32px;
   line-height: 40px;
-} */
-#testata h1{
-        font-size: 32px;
-        line-height: 40px;
+  padding: 0;
+  color: #fff;
+  /* margin: 335px 0 0px 0px; */
 }
