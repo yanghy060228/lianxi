@@ -1,0 +1,10 @@
+h1{
+  color: #fff;
+  margin: 335px 0 0px 0px;
+  z-index: 50px;
+}
+
+.row{
+  z-index: 10px;
+  cursor: pointer;
+}
