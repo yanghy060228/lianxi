@@ -1,10 +1,9 @@
 body{
-  /* background-color:black  */
-}
-
-.qukuai1{
-  margin-right: -15px;
-  margin-left: -15px;
+  font-size: 18px;
+  min-height: 100%;
+  background: #fff;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.5em;
 }
 
 .img-responsive{
@@ -23,10 +22,19 @@ body{
   width: auto;
 }
 
+.qukuai1{
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
 .jiaoshic{
   height: 495px;
   padding-left: 10px;
   padding-right: 10px;
+}
+
+.qukuai2{
+
 }
 
 .jst{
@@ -95,7 +103,22 @@ body{
   padding-right: 10px;
   background: #947100;
 }
+
 .shuzhit1{
   padding-bottom: 20px;
   width: 100%;
 }
+
+.qukuai3{
+  background-color: #fff;
+}
+
+.huise2{
+  color: #000;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+.tasto-target-h3{
+  background: #5D5949;
+} 
