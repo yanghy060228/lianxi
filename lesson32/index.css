@@ -7,6 +7,22 @@ body{
   margin-left: -15px;
 }
 
+.img-responsive{
+  padding-bottom: 20px;
+  background-color: transparent;
+  width: 100%;
+  border: none;
+  height: 132px;
+  width: auto;
+  margin: 0 auto;
+  padding: 13% 0;
+  display: block;
+  max-width: 100%;
+  border: 0;
+  height: 293px;
+  width: auto;
+}
+
 .jiaoshic{
   height: 495px;
   padding-left: 10px;
@@ -24,4 +40,62 @@ body{
   padding: 0;
   color: #fff;
   /* margin: 335px 0 0px 0px; */
+}
+
+.shubent{
+  background: #c54c00 ;
+  padding-bottom: 20px;
+  margin-right: 50px;
+}
+
+.shubent1{
+    padding-left: 10px;
+    padding-right: 50px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+.DIDATTICA{
+  color: #fff ;
+}
+
+.xianweijing{
+  padding-left: 10px;
+  padding-right: 10px;
+  background: #3E6041;
+}
+
+.xianweijing1{
+  padding-bottom: 20px;
+  width: 100%;
+}
+
+.RICERCASCIENTIFICA{
+  color: #fff ;
+}
+
+.qiut{
+  padding-left: 10px;
+  padding-right: 10px;
+  background: hsl(232, 50%, 25%);
+}
+
+.qiut1{
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  width: 50%;
+}
+
+.INTERNAZIONALE{
+  color: #fff ;
+}
+
+.shuzhit{
+  padding-left: 10px;
+  padding-right: 10px;
+  background: #947100;
+}
+.shuzhit1{
+  padding-bottom: 20px;
+  width: 100%;
 }
