@@ -1,0 +1,233 @@
+html{
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.all-one{
+  font-family: 'Open Sans', sans-serif;
+  /* box-sizing: border-box;  */
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.wenzi{
+  /* width: 500px; */
+}
+
+h1{
+  font-size: 35px;
+  /* margin-left: 20px; */
+  width: 700px;
+  bottom: 100px;
+  position: relative;
+}
+
+.Intervento{
+  /* position: relative;
+  width: 200px; */
+}
+
+a:link{
+  color: #fff;
+  text-decoration: none;
+}
+
+a:visited{
+  color: #fff;
+  text-decoration:none;
+}
+
+a:hover{
+  text-decoration: #fff underline;
+}
+
+.tubiao{
+  display: block;;
+  float: right;
+  /* width: 30%; */
+}
+
+.qu1{
+  position: relative;
+  float: right;
+  width: 100%;
+}
+
+.img-responsive{
+  display: block;
+  margin: auto;
+  height: 110px;
+  width: 110px;
+}
+
+h2{
+  font-weight: 500;
+  text-align: center;
+  font-size: 17px;
+  line-height: 16px;
+  padding-bottom: 20px;
+}
+
+.tubiao1{
+  position: relative;
+  float: left;
+  width: 20%;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 50px;
+  margin-top: 20px;
+  background: #c54c00;
+}
+
+.tubiao2{
+  position: relative;
+  float: left;
+  width: 20%;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 50px;
+  margin-top: 20px;
+  background: #3E6041;
+}
+
+.tubiao3{
+  position: relative;
+  float: left;
+  width: 20%;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 50px;
+  margin-top: 20px;
+  background: #006778 ;
+}
+
+.tubiao4{
+  position: relative;
+  float: left;
+  width: 20%;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 50px;
+  margin-top: 20px;
+  background: #947100;
+}
+
+.ATENEO{
+  position: relative;
+  float: right; 
+  width: 75%;
+  margin-top: 20px;
+  margin-right: 24px;
+  padding-left: 10px;
+  padding-right: 35px;  
+  padding-bottom: 20px;
+  background: #5D5949 ;
+  padding-top: 20px;
+}
+
+.all-three{
+  font-size: 18px;
+  line-height: 1.5em;
+  box-sizing: border-box;
+  display: block;
+}
+
+.img-responsive1{
+  display: block;
+  margin: auto;
+  height: 100px;
+  width: 140px;
+}
+
+.tubiao-2{
+  /* position: relative;
+  float: left; */
+  /* width: 30%; */
+}
+
+.tubiao5{
+  position: relative;
+  float: left;
+  width: 15%;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 20px;
+  margin-top: 20px;
+  background: #822433;
+}
+
+.tubiao6{
+  position: relative;
+  float: left;
+  width: 15%;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 20px;
+  margin-top: 20px;
+  background: #822433;
+}
+
+.tubiao7{
+  position: relative;
+  float: left;
+  width: 15%;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 20px;
+  margin-top: 20px;
+  background: #822433;
+}
+
+.tubiao8{
+  position: relative;
+  float: left;
+  width: 15%;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 20px;
+  margin-top: 20px;
+  background: #822433;
+}
+
+.tubiao9{
+  position: relative;
+  float: left;
+  width: 15%;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 20px;
+  margin-top: 20px;
+  background: #822433;
+}
+
+.tubiao10{
+  position: relative;
+  float: left;
+  width: 15%;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 20px;
+  margin-top: 20px;
+  background: #822433;
+}
