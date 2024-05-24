@@ -5,7 +5,7 @@
 }
 
 .y-qk1{
-  /* columns: 2; */
+  columns: 2;
 }
 
 .y-tu{
@@ -15,7 +15,32 @@
   margin: 0px;
 }
 
-.wz{
-  width: 500px;
-  
+h1{
+  position: relative;
+  top:430px;
+  right: 600px;
+  width: 600px;
+}
+
+.img-responsive{
+  height: 120px;
+  width: 120px;
+  display: block;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.tubiao1{
+  position: relative;
+  right: 500px;
+  left: 120px;
+  height: 200px;
+  width: 150px;
+  padding-left: 10px;
+  /* padding-right: 5px; */
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 60px;
+  margin-top: 20px;
+  background: #c54c00;
 }

@@ -1,0 +1,171 @@
+.all{
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.y-qk1{
+  columns: 2;
+}
+.y-tu{
+  height: 400px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 0px;
+}
+h1{
+  position: relative;
+  top:430px;
+  right: 590px;
+  width: 700px;
+  font-size: 35px;
+  font-family: inherit;
+}
+h2{
+  text-align: center;
+  font-weight: 350;
+  font-size: 15px;
+  line-height: 16px;
+  padding-top: 25px;
+}
+a:link{
+  color: #fff;
+  /* text-shadow: 1px 1px 2px #000; */
+  text-decoration: none;
+}
+a:visited{
+  color: #fff;
+  text-decoration:none;
+}
+a:hover{
+  text-decoration: #fff underline;
+}
+.y-qk1-2{
+  position: relative;
+  right: 600px;
+  left: 60px;
+}
+.img-responsive{
+  position: relative;
+  top:10px;
+  height: 120px;
+  width: 110px;
+  display: block;
+  padding-left: 12px;
+  padding-right: 10px;
+}
+.youshang{
+  columns: 2;
+}
+.tubiao1{
+  position: relative;
+  right: 500px;
+  left: 120px;
+  height: 200px;
+  width: 140px;
+  padding-right: 15px;
+  padding-left: 20px;
+  padding-top: 10px; 
+  background: #c54c00;
+}
+.tubiao2{
+  position: relative;
+  right: 300px;
+  left: 10px;
+  height: 200px;
+  width: 140px;
+  padding-right: 15px;
+  padding-left: 20px;
+  padding-top: 10px;
+  background: #3E6041;
+}
+.tubiao2-2{
+  position: relative;
+  right: 14px;
+  width: 160px;
+}
+.youxia{
+  columns: 2;
+  /* position: relative; */
+  margin-top: 20px;
+}
+.tubiao3{
+  position: relative;
+  right: 500px;
+  left: 120px;
+  height: 200px;
+  width: 140px;
+  padding-right: 15px;
+  padding-left: 20px;
+  padding-top: 10px; 
+  background: #006778 ;
+}
+.tubiao4{
+  position: relative;
+  right: 300px;
+  left: 10px;
+  height: 200px;
+  width: 140px;
+  padding-right: 15px;
+  padding-left: 20px;
+  padding-top: 10px;
+  background: #947100;
+}
+.img-responsive1-1{
+  position: relative;
+  top:10px;
+  height: 120px;
+  width: 170px;
+  display: block;
+  text-align: center;
+  margin-left: -15px;
+}
+.ATENEO{
+  position: relative;
+  right: 500px;
+  left: 120px;
+  width: 370px;
+  height: 50px;
+  background: #5D5949;
+}
+h3{
+  position: relative;
+  top: -5px;
+  text-align: center;
+  font-weight: 350;
+  font-size: 16px;
+  line-height: 16px;
+  padding-top: 25px;
+}
+.xiabiao{
+  columns: 3;
+  position: relative;
+  height: 30px;
+  width: 120px;
+  left: 800px;
+  margin-top: 15px;
+}
+.img1{
+  width: 20px;
+  height: 20px;
+}
+h4{
+  margin-left: -20px;
+  margin-right: 10px;
+  font-weight: 350;
+  font-size: 17px;
+}
+.NOTIZIE{
+  /* margin-right: 40px; */
+  margin-left: 10px;
+}
+.EVENTI{
+  /* margin-right: 60px; */
+  margin-left: 40px;
+}
+.SOCIAL{
+  /* margin-right: 60px; */
+  margin-left: 60px;
+}
+.zt:hover{
+  text-decoration: #822433 underline;
+}
