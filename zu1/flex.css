@@ -1,0 +1,100 @@
+.zyj-container1,.zyj-container2,.zyj-container3,
+.zyj-container4,.zyj-container5,.zyj-container6,
+.zyj-container7,.zyj-container8,.zyj-container9 {
+    display: flex;
+    align-items: flex-start; /* 垂直对齐 */
+    justify-content: space-between;
+    width: 100%;
+    overflow: hidden;
+}
+
+/* .top-right-box {
+    flex: 1;
+    margin: 0 10px;
+}
+
+.card-image {
+    width: 100%;
+    height: auto;
+    max-height: 300px;
+    overflow: hidden;
+}
+
+.card-image img {
+    width: 100%;
+    height: auto;
+}
+
+.card-content {
+    padding: 20px;
+} */
+
+.left-box {
+    flex: 1;
+    margin-right: 20px;
+    padding-bottom:  20px;
+}
+
+.zyj-right-container1 {
+    flex: 2;
+    display: flex;
+    flex-direction: row;
+}
+
+.right-top-box,
+.right-bottom-box {
+    flex: 1;
+}
+
+.right-top-box {
+    margin-bottom: 20px;
+}
+
+.zyj-container2,.zyj-container3,.zyj-container4,
+.zyj-container5,.zyj-container6,.zyj-container7,
+.zyj-container8,.zyj-container9 {
+    display: flex;
+    flex: 1; 
+    /* box-sizing: border-box; */
+}
+
+.top-right-box,.top-right-box1,.top-right-box2,
+.top-right-box3,.top-right-box4,.top-right-box5,
+.top-right-box6,.top-right-box7 {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+
+}
+
+a {
+    align-items: center;
+}
+
+.box {
+    box-sizing: border-box;
+}
+
+.left-box {
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 490px;
+    height: 585.96px;
+}
+
+.left-box,.top-right-box,.top-right-box1,.top-right-box2 {
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.zyj-container10 {
+    display: flex;
+}
+
+.TUTTI {
+    margin-left: auto;
+    align-self: center;
+}
