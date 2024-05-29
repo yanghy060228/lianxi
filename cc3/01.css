@@ -1,0 +1,357 @@
+.tou{
+	color: rgb(130, 36, 51);
+	dispaly:block;
+	font-family: "Open Sans", sans-serif;
+	font-size: 30px;
+	font-weight: 300;
+	height: 34px;
+	line-height: 34px;
+	margin-block-end: 8px;
+	margin-block-start: 8px;
+	margin-bottom: 2px;
+	}
+
+.seven1,.seven2,.seven3,.seven4,.seven5,.seven6{
+	width: 20px;
+  font-size: 50px;
+	font-weight: 300;
+	height: 70px;
+  font-family: 'Open Sans', sans-serif;
+	line-height: 10px;
+	display: inline-block; 
+	/* margin-bottom: 10px; */
+  }
+
+.date1,.date2,.date3,.date4,.date5,.date6{
+	width: 20px;
+  font-size: 18px;
+	font-weight: 300;
+	line-height: 0px;
+	font-family: 'Open Sans', sans-serif;
+	display: inline-block;
+	/* margin-bottom: 10px; */
+}
+
+
+.time1,.time2,.time3,.time4,.time5,.time6{
+	width: 20px;
+  font-size: 18px;
+	font-weight: 300;
+	line-height: 5px;
+	font-family: 'Open Sans', sans-serif;
+	margin-top: -15px;
+	margin-bottom: 30px;
+}
+
+.date1,.date2,.date3,.date4,.date5,.date6,.time2,
+.time3,.time4,.time5,.time6,.time1,.seven1,.seven2,
+.seven3,.seven4,.seven5,.seven6{
+	color:            #822433;
+	}
+
+.zong1,.zong2,.zong3,.zong4,.zong5,.zong6{
+float: left;
+margin-right: 1.75%;
+}
+
+a{
+	text-decoration: none;
+	color: #333;
+}
+	
+	.first :hover,.second :hover,.third :hover
+	,.fourth :hover,.fifth :hover,.sixed :hover
+	,.seventh :hover,.eighten :hover,.nineth :hover
+	,.tenth :hover,.eleventh :hover,.twelveth :hover
+	,.thirth :hover,.fourteenth :hover,.fifteenth :hover
+	,.sixteenth :hover,.seventeenth :hover,.eighteenth :hover{
+	border-bottom: 1px solid #000;
+}
+
+.content1,.content2,.content3,.content4,.content5,.content6{
+	color: #333;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	font-weight: 300;
+	height: auto;
+	line-height:  16px;
+}
+
+
+.one{
+	margin-bottom: 20px;
+	color: #333333;
+	font-size: 18px;
+	font-family: 'Open Sans', sans-serif;
+	line-height: 1.5em;
+	/* padding-right: 500px; */
+	padding-left: 310px;
+	padding-top: 50px;
+	display: inline-block;
+	position: relative;
+	top:-20px;
+	clear: left;
+
+}
+
+.jiantou1 img{
+	/* display: inline-block; */
+	height: 50px;
+	width: 60px;
+}
+
+.jt1{
+	display: inline-block;
+	line-height: 1.5em;
+	margin-left: 25px;
+
+}
+
+
+
+.TUTTE { border: 1px #822433;
+	/* background-color: #822433; */
+	/* height: 80px;
+	width: 180px; */
+	margin-left: 1405px;
+	margin-bottom: 50px; 
+	top: -60px;
+	display: block;
+	position: relative;
+	left: 940px;
+	width: 165px;
+	height:85px;
+	background-color: #822433;
+	line-height: 34px;
+	text-transform: uppercase;
+	font-weight: 300px;
+	margin: 8px 0;
+	font-family: 'Open Sans', sans-serif;
+	/* position: relative; */
+	padding-left: 20px;
+}
+
+.baizi{
+	font-size: 30px;
+	line-height: 34px;
+	/* text-transform: uppercase; */
+	font-weight: 330;
+	padding-left: 10px;
+}
+
+.TUTTE a:hover{
+	color: #fff;
+	border-bottom: 2px solid #fff;
+}
+
+.TUTTE a{
+	color: #fff;
+	font-family: "Open Sans", sans-serif;
+}
+
+.social{
+	color: #fff;
+	/* display: block; */
+	font-family: "Open Sans", sans-serif;
+	font-size: 30px;
+	font-weight: 300;
+	/* padding-left: 180px; */
+	padding-top: 6px;
+	display: inline-block;
+	margin-left: 20px
+}
+
+/* .dahongkuang{
+	width: 2400px;
+	height: 559px;
+	margin: 0 auto;
+	min-width: 1200px;
+	min-height: 600px;
+	background-color: #822433;
+} */
+
+
+.zhaopiankuang1,.zhaopiankuang2,.zhaopiankuang3,.zhaopiankuang4{
+	display: inline-block; 
+	margin-left: 4px;
+	margin-right: 4px;
+	padding-bottom: 0%;
+}
+.sszz{
+	float: left;
+	position: relative;
+	left: 232px;
+}
+
+.zzz1,.zzz2,.zzz3,.zzz4{
+	position: relative;
+	float: left;
+	top:  80px;
+	padding-right: 20px;
+}
+/* .zzz2,.zzz3{
+	padding-left: 10px;
+}
+.zzz3{
+	padding-right: 10px;
+} */
+
+
+
+.baikuang1,.baikuang2,.baikuang3,.baikuang4{
+	background-color: #fff;
+	height: 380px; 
+	width: 270px;
+	display: inline-block; 
+	/* margin-left: 100px; */
+	margin-top: 20px;
+	/* margin-left: 180px;  */
+}
+
+
+
+.yuan1 img,.yuan2 img,.fang1 img,.fang2 img{
+	height: 25px;
+	width: 35px;
+	padding-top: 15px;
+	padding-left: 15px;
+}
+
+.vap1,.vap2,.vap3,.vap4{
+	float: right;
+	font-size: 1em;
+	height: 25px;
+	padding-right: 10px;
+}
+
+.vap1 a,.vap2 a,.vap3 a,.vap4 a{
+	font-family: 'Open Sans', sans-serif;
+	color:#000;
+}
+.vap1 a:hover,.vap2 a:hover,.vap3 a:hover,.vap4 a:hover{
+	/* text-decoration: none; */
+	color: #3e525c;
+	border-bottom: 1px solid #3e525c;
+	text-decoration: underline;
+}
+
+.xiaozi1,.xiaozi2,.xiaozi3,.xiaozi4{
+	font-size: 11px;
+	padding-left: 15px;
+	height: 25px;
+	color: #333333;
+}
+
+.xiaoxia1,.xiaoxia2,.xiaoxia3,.xiaoxia4{
+	font-size: 11px;
+	padding-left: 15px;
+	padding-top: 15px;
+	}
+
+.xiaoxia1 a,.xiaoxia2 a,.xiaoxia3 a,.xiaoxia4 a{
+	font-family: 'Open Sans', sans-serif;
+	color:#333333;
+}
+	
+.xiaoxia1 a:hover,.xiaoxia2 a:hover,.xiaoxia3 a:hover,.xiaoxia4 a:hover{
+	color: #3e525c;
+	border-bottom: 1px solid #3e525c;
+	text-decoration: none;
+}
+
+
+
+.zhaopiankuang5,.zhaopiankuang6,.zhaopiankuang7,.zhaopiankuang8{
+	padding-left: 15px;
+	padding-top: 10px;
+}
+
+.zuixiazi1,.zuixiazi2,.zuixiazi3,.zuixiazi4{
+	font-size: 11px;
+	padding-left: 15px;
+}
+
+.zhaopiankuang5,.zhaopiankuang6,.zhaopiankuang7,.zhaopiankuang8{
+	height: 160px;
+	width: 250px;
+}
+
+.part1{
+	/* width: 1200px;
+	margin-left: auto;
+	margin-right: auto; */
+	width: 1500px;
+	height: 450px;
+	margin: 0 auto;
+	min-width: 1200px;
+	min-height: 450px;
+	background-color: #fff;
+	position: relative;
+}
+
+
+
+.part2{
+	/* width: 1500px;
+	height: 600px;
+	margin: 0 auto;
+	min-width: 1200px; */
+	position: relative;
+	width: 1500px;
+	height: 450px;
+	/* min-height: 600px; */
+	margin-top:70px;
+	background-color: #822433;
+	/* text-align: center; */
+} 
+
+.part2-1{
+	position:relative;
+}
+
+.two{
+	margin-bottom: 30px;
+	color: #fff;
+	font-size: 18px;
+	font-family: 'Open Sans', sans-serif;
+	top: 600px;
+	/* right: 1160px; */
+	padding-left: 735px;
+	padding-right: 20px;
+	padding-top: 20px;
+	display: inline-block;
+	position: relative;
+	top:-20px;
+	clear: left;
+	
+}
+
+.jiantpu2 img{
+	/* display: inline-block; */
+	height: 50px;
+	font-weight: 60px;
+	padding: left 10px;
+	top: 20px;
+}
+
+.jt2{
+	display: inline-block;
+	padding-top:80px;
+	padding-bottom: 50px;
+	top: 100px;
+	line-height: 1.5em;
+	/* margin-left: 25px; */
+	margin-top: 20px;
+}
+
+.sbk{
+	position: relative;
+	left: 820px;
+}
+
+.sp{
+position: relative;
+right: 580px;
+top:400px
+}
+
