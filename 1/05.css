@@ -1,0 +1,280 @@
+.l-allcontent {
+  display: block;
+  float: left;
+  width: 1200px;
+  margin: auto;
+  position: relative;
+  margin-top: 20px;
+}
+
+.l-kuai1,.l-kuai2 {
+  display: block;
+  float: left;
+  margin: auto;
+  font-family: inherit;
+  font-weight: 500;
+  text-align: center;
+  color: #fff;
+  font-size: 17px;
+  line-height: 16px;
+}
+
+.z1,.z2,.z3,.z4,.z5,.z6,.z7,.z8,.z9,.z10,.z11,.z12 {
+  display:block;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  float: left;
+  height: 235px;
+}
+
+.z1,.z2,.z3,.z4,.z5,.z6 {
+  margin-bottom: 10px;
+}
+
+.z1word,.z2word,.z3word,.z4word,.z5word,.z6word,.z7word,.z8word,.z9word,.z10word,.z11word,.z12word {
+  position: relative;
+  bottom: 9px;
+  margin-left: auto;
+	margin-right: auto;
+}
+
+.l-allcontent p {
+  margin: 0px;
+  border-bottom: none;
+}
+
+.z1word,.z6word.z7word,.z12word {
+  width: 190px;
+}
+
+.z2word,.z3word,.z4word,.z5word.z8word,.z9word,.z10word,.z11word {
+  width: 180px;
+}
+
+.l-allcontent a:link {
+  color: #fff;
+  text-decoration: none;
+  border-bottom: none;
+}
+/* .allcontent a {
+  text-decoration: none;
+  color:#ffffff;
+  border-bottom: none;
+} */
+/* 
+.z1word :hover,.z2word :hover,.z3word :hover,.z4word :hover,.z5word :hover,
+.z6word :hover,.z7word :hover,.z8word :hover,.z9word :hover,.z10word :hover,
+.z11word :hover,.z12word :hover {
+  border-bottom: 1px solid #ffffff;
+} */
+
+.l-kuai1,.l-kuai2,.l-kuai3 a:hover {
+  border-bottom: 1px solid #ffffff;
+  color: #fff;
+}
+
+.l-kuai1,.l-kuai2,.l-kuai3 a:visited {
+  text-decoration: none;
+  color:#ffffff;
+  border-bottom: none;
+}
+
+.l-kuai1 a {
+  color: #ffffff;
+}
+
+.l-kuai1 p a:hover {
+  text-decoration: none;
+  border-bottom: 1px solid #ffffff;
+}
+
+.l-duo,.l-cft,.l-shu,.l-m,.l-fangkuang,.l-zi,
+.l-huizhang,.l-xueshihuizhang,.l-xueshimao,.l-shou,.l-suo,.l-yingwen a:hover {
+  text-decoration: none; 
+  border-bottom: none;
+} 
+
+.z1 img,.z2 img,.z3 img,.z4 img,.z5 img,.z6 img,
+.z7 img,.z8 img,.z9 img,.z10 img,.z11 img,.z12 img {
+  position: relative;
+  bottom: 9px;
+  width: 170px;
+  height: 80%;
+  padding-top: 13%;
+  padding-bottom: 13%;
+}
+
+.z1,.z6,.z7,.z12 {
+  width: 190px;
+  /* height: 215px; */
+}
+
+.z2,.z3,.z4,.z5,.z8,.z9,.z10,.z11 {
+  width: 180px;
+  /* height: 215px; */
+}
+
+.z1,.z3,.z6,.z7 {
+  background-color: #822433;
+}
+
+.z2,.z5,.z8,.z10 {
+  background-color: #c54c00;
+}
+
+.z4,.z9 {
+  background-color: #3e6041;
+}
+
+.z11,.z12 {
+  background-color: #756f6f;
+}
+
+.z1 {
+  margin: 0px 10px 10px 0px;
+}
+
+.z7 {
+  margin: 8px 10px 10px 0px;
+}
+
+.z2,.z3,.z4,.z5,.z8,.z9,.z10,.z11 {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.z6 {
+  margin: 0px 0px 10px 10px;
+}
+
+.z8,.z9,.z10,.z11 {
+  margin-top: 8px;
+}
+
+.z12 {
+  margin: 8px 0px 10px 10px;
+}
+
+.l-kuai2 {
+  /* position: relative; */
+  height: 300px;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+
+.tu2 img {
+  width: 380px;
+  height: 300px;
+}
+
+.tu1 img,.tu3 img {
+  height: 300px;
+  width: 390px;
+}
+
+.tu1,.tu2,.tu3 {
+  display: block;
+  float: left;
+  
+}
+
+.tu1 {
+  margin: 0px 10px 0px 0px;
+  width: 390px;
+}
+
+.tu2 {
+  margin: 0px 10px 0px 10px;
+  width: 380px;
+}
+
+.tu3 {
+  margin: 0px 0px 0px 10px;
+  width: 390px;
+}
+
+.lingdai1 {
+  position: relative;
+  right: 55px;
+  bottom: 170px;
+  font-size: 36px;
+  line-height: 54px;
+  color: #fff;
+}
+.lingdai1 a {
+color: #fff;
+}
+.lingdai1 a:hover {
+  text-decoration: none;
+  border-bottom: none;
+  border-bottom: 4px solid #175286;
+
+}
+
+.l-kuai3 {
+  color: #333333;
+  font-size: 12px;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 16px;
+  display: block;
+  float: left;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  /* height: 300px; */
+}
+
+.l-kuai3 ul {
+  list-style-type: none;
+  padding: 0px;
+}
+
+.l-biao1,.l-biao2,.l-biao3,.l-biao4 {
+  display: block;
+  height: 250px;
+  padding:20px;
+  /* margin-top: 10px; */
+  float: left;
+}
+
+.l-biao1 {
+  background-color: #c54c00;
+  margin-right: 10px;
+  width: 290px;
+}
+.l-biao2 {
+  background-color: #006778;
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 280px;
+}
+.l-biao3 {
+  background-color: #3e6041;
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 280px;
+
+}
+.l-biao4 {
+  background-color: #5d5949;
+  margin-left: 10px; 
+  width: 290px;
+}
+
+.l-biaoti1,.l-biaoti2,.l-biaoti3,.l-biaoti4 {
+  font-size: 9px;
+  font-family: inherit;
+  line-height: 1.5em;
+}
+
+.l-kuai3 h1 {
+  position: relative;
+  bottom: 5px;  
+  font-weight: lighter;
+  font-weight: 300;
+  /* top: 100px; */
+}
+
+.ul1,.ul2,.ul3,.ul4 {
+  position: relative;
+  bottom: 10px;
+}
